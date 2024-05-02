@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nome": "O manco morto",
+        "autor": "Machado de Assis",
+        "ano": 1960
+    },
+    {
+        "id": 2,
+        "nome": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "ano": 1899
+    },
+    {
+        "id": 3,
+        "nome": "Memórias Póstumas de Brás Cubas",
+        "autor": "Machado de Assis",
+        "ano": 1881
+    },
+    {
+        "id": 4,
+        "nome": "Quincas Borba",
+        "autor": "Machado de Assis",
+        "ano": 1891
+    },
+    {
+        "id": 5,
+        "nome": "O Alienista",
+        "autor": "Machado de Assis",
+        "ano": 1882
+    }
+]
